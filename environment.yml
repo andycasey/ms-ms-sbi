@@ -1,0 +1,19 @@
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - scipy
+  - astropy
+  - ipython
+  - pytorch
+  - torchvision
+  - torchaudio
+  - numba
+  - pip
+  - pip:
+      - sbi
+      - isochrones
+      - jupyterlab
